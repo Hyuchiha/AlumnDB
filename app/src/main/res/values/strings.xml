@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Student</string>
+    <string name="FirstName">FirstName</string>
+    <string name="LastName">Last Name</string>
+    <string name="matricula">Matricula</string>
+    <string name="Carrera">Carrera</string>
+    <string name="BtnSave">Save</string>
+    <string name="addButton">Agregar</string>
+    <string name="RegisterText">Registro</string>
+</resources>
